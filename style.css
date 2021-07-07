@@ -106,3 +106,19 @@ border-radius: 20px;
 box-shadow:-3px -3px 3px #dad5d5 ,
            3px 3px 3px #dad5d5 ;
 }
+
+#last-box {
+
+
+display: flex;
+border-radius: 8px;
+box-shadow:-3px -3px 3px #dad5d5 ,
+           3px 3px 3px #dad5d5 ;
+}
+
+.row{
+ width: 50%;
+height: 50%;
+margin-left: 188px;
+}
+
